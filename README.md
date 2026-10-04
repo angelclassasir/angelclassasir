@@ -17,7 +17,7 @@ Systems administration student who builds tools, bots and small web apps for fun
 | [**StatCard**](https://github.com/angelclassasir/statcard) | Generates shareable stat cards for Valorant players. Python CLI + FastAPI backend + static frontend. [Live demo](https://statcard.pages.dev) |
 | [**callmeangel**](https://github.com/angelclassasir/callmeangel) | My personal website, built as a static arcade-style page in English and Spanish. [Live site](https://callmeangel.pages.dev) |
 
-**Up next:** a community bot for Discord (and later Twitch) with a coin economy and minigames, with the game logic kept separate from the platform adapters.
+**Up next:** an interactive cryptography playground with live, client-side demos of Caesar, AES-256, SHA-256, RSA and an Enigma machine simulator, no backend required, everything runs in the browser.
 
 ## Tech I use
 
