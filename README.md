@@ -2,6 +2,9 @@
 
 Systems administration student who builds tools, bots and small web apps for fun. I like projects I can ship, show and keep improving.
 
+[![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
 ## About me
 
 -  Studying a vocational degree in **Network Systems Administration (ASIR)** in Spain
