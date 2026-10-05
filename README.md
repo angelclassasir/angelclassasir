@@ -4,11 +4,11 @@ Systems administration student who builds tools, bots and small web apps for fun
 
 ## About me
 
-- 🎓 Studying a vocational degree in **Network Systems Administration (ASIR)** in Spain
-- 🛠️ Background in **systems and networking**: virtual labs with GNS3 and pfSense
-- 🐍 Building with **Python**: APIs, image generation, automation
-- 🎯 Long-term goal: **AI/ML engineering**
-- 🌍 Interested in working internationally
+-  Studying a vocational degree in **Network Systems Administration (ASIR)** in Spain
+-  Background in **systems and networking**: virtual labs with GNS3 and pfSense
+-  Building with **Python**: APIs, image generation, automation
+-  Long-term goal: **AI/ML engineering**
+-  Interested in working internationally
 
 ## Projects
 
@@ -25,4 +25,4 @@ Systems administration student who builds tools, bots and small web apps for fun
 
 ## Find me
 
-- 🌐 Website: [callmeangel.pages.dev](https://callmeangel.pages.dev)
+-  Website: [callmeangel.pages.dev](https://callmeangel.pages.dev)
