@@ -21,7 +21,7 @@ Systems administration student who builds tools, bots and small web apps for fun
 
 ## Tech I use
 [![Python](https://img.shields.io/badge/Python-3.12%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/) ·
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) · [![httpX](https://img.shields.io/badge/httpx-1.12.0-blue?logo=httpx&logoColor=withe)](https://fastapi.tiangolo.com/) · pydantic · Pillow · pytest · ruff · uv · HTML/CSS/JS · Cloudflare Pages · GNS3 · pfSense
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) · [![httpX](https://img.shields.io/badge/httpx-1.12.0-blue?logo=httpx&logoColor=withe)](https://fastapi.tiangolo.com/) · [![pydantic](https://img.shields.io/badge/pydantic-%5E1.10.1-orange)](https://pydantic.dev/) · Pillow · pytest · ruff · uv · HTML/CSS/JS · Cloudflare Pages · GNS3 · pfSense
 
 ## Find me
 
