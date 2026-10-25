@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ángel ClassAsir — ASIR student, Linux, networking and Python">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#11161d"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff4655"/>
+      <stop offset="1" stop-color="#ff8a95"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.18" r="0.6">
+      <stop offset="0" stop-color="#ff4655" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#ff4655" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <g stroke="#21262d" stroke-width="1" opacity="0.5">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M60 0V300M120 0V300M180 0V300M240 0V300M300 0V300M360 0V300M420 0V300M480 0V300M540 0V300M600 0V300M660 0V300M720 0V300M780 0V300M840 0V300M900 0V300M960 0V300M1020 0V300M1080 0V300M1140 0V300"/>
+  </g>
+
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <g fill="none" stroke="#ff4655" stroke-width="1.5">
+    <circle cx="1030" cy="62" r="150" stroke-opacity="0.16"/>
+    <circle cx="1030" cy="62" r="104" stroke-opacity="0.12"/>
+    <circle cx="1030" cy="62" r="58" stroke-opacity="0.08"/>
+  </g>
+
+  <text x="72" y="126" fill="#f0f6fc" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="-1">Ángel ClassAsir</text>
+  <text x="74" y="174" fill="#8b949e" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Arial, sans-serif" font-size="25">ASIR student · Linux, networking &amp; Python</text>
+  <rect x="74" y="200" width="116" height="5" rx="2.5" fill="url(#bar)"/>
+  <text x="74" y="248" fill="#ff8a95" font-family="'Cascadia Code', Consolas, monospace" font-size="20">$ building tools I can ship</text>
+  <text x="1128" y="272" fill="#484f58" font-family="'Cascadia Code', Consolas, monospace" font-size="14" text-anchor="end">ES · UTC+1</text>
+</svg>
