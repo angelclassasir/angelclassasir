@@ -34,7 +34,7 @@ Systems administration student who builds tools, bots and small web apps for fun
 Turns any Valorant Riot ID into a polished, shareable PNG card: rank, K/D, win rate and recent matches. Python CLI + FastAPI backend + a dependency-free static frontend, live on Cloudflare Pages and Render.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/angelclassasir/statcard/ci.yml?branch=master&style=flat-square&label=CI)](https://github.com/angelclassasir/statcard/actions)
-[![Version](https://img.shields.io/github/v/tag/angelclassasir/statcard?style=flat-square&label=version)](https://github.com/angelclassasir/statcard/tree/v2.2.0)
+[![Version](https://img.shields.io/github/v/tag/angelclassasir/statcard?style=flat-square&label=version)](https://github.com/angelclassasir/statcard/blob/master/CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-PolyForm%20NC-lightgrey?style=flat-square)](https://github.com/angelclassasir/statcard/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
